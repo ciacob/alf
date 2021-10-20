@@ -1,4 +1,4 @@
-# Topic: Introduction
+# Introduction
 
 Thank you for trying the **Audio Processing Library for Flash** (ALF) developed by the **Music and Entertainment Technology Lab**
 in the **Department of Electrical and Computer Engineering** at Drexel University. This library is intended to streamline audio
