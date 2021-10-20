@@ -1,6 +1,6 @@
 ﻿package {
 
-	// Utilities	
+	// Utilities:	
 	import flash.net.URLRequest;
 	import flash.utils.ByteArray;
 	import flash.utils.Endian;
