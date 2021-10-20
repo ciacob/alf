@@ -6,9 +6,9 @@ playback, modification, and feature extraction for Flash applications using Acti
 `.wav` and `.mp3` audio files while synchronizing visual events with the audio to create applications that are highly music
 centric/reactive.
 
-Developers who do not require significant control over the manner in which playback occurs are directed to use [ALF.as](Flash/ALF.as).
+Developers who do not require significant control over the manner in which playback occurs are directed to use [ALF.as](src/ALF.as).
 Those who want lower level control over the dynamic audio playback functionality of Actionscript3 should read the
-documentation on [DATF.as](Flash/DATF.as).
+documentation on [DATF.as](src/DATF.as).
 
 To download the library as well as view a demo application please go to http://music.ece.drexel.edu/ALF.
 
